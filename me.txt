@@ -1,0 +1,5 @@
+{{#deepikayadav610}}
+Name: Deepika Yadav
+Skills: HTML, CSS, JS, C Programming, Python
+Email: deepikaydv6104@gmail.com
+{{/deepikayadav610}}
